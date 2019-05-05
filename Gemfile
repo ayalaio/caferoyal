@@ -10,3 +10,5 @@ group :jekyll_plugins do
 end
 
 gem "rake", "~> 12.3"
+
+gem "RedCloth", "~> 4.3"
