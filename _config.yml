@@ -1,1 +1,1 @@
-exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, "_site/bin"]
+exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, "/app/_site/bin/erb"]
